@@ -1,0 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+
+#page-heading { font-size: 10rem; text-align: center; }
+
+#admin-post-form { transition: height 0.2s ease-in-out; }
+
+.buttons { text-align: right; }
+
+.edit.input.textarea { height: auto; min-height: 40vh; }
+
+.edit.input { font-family: 'lora'; }
